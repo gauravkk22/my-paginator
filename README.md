@@ -1,6 +1,14 @@
 # \<pagination\>
 
 
+## Running Polymer and tools
+  ```
+  $ npm install -g polymer-cli
+  $ bower install --save
+  ```
+## Demo
+
+https://my-paginator.firebaseapp.com/
 
 ## Install the Polymer-CLI
 
